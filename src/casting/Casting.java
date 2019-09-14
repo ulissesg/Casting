@@ -23,7 +23,7 @@ public class Casting {
         double dobro ;
         
         System.out.println("--------------------------------------------");
-        System.out.println("|       CASTING - byte, ... , double       |");
+        System.out.println("|            CASTING - widening            |");
         System.out.println("--------------------------------------------");
         
         bite  = 50;
@@ -41,7 +41,7 @@ public class Casting {
         System.out.println("double: " + dobro);
         
         System.out.println("--------------------------------------------");
-        System.out.println("|       CASTING - double, ... , byte       |");
+        System.out.println("|            CASTING - Narrowing           |");
         System.out.println("--------------------------------------------");
         
         dobro = -1000265165626854965168465168498689465196846516156.6519896156849816159849615684498;
